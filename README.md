@@ -26,3 +26,6 @@ MY DISCORD USERNAME: jayydev | jayydev#1405
 \
 #### IF you want to support the bot that wound be appreciated. And the donations will be put on the running cost of it.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z5O12IH)
+
+# Update Version 1.1 08-10-2023
+### Underway! Stay Tuned!
