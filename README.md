@@ -28,4 +28,4 @@ MY DISCORD USERNAME: jayydev | jayydev#1405
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z5O12IH)
 
 # Update Version 1.1 08-10-2023
-### Underway! Stay Tuned!
+### Update info is posted on my Ko-Fi Page!
