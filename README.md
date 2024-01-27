@@ -1,5 +1,5 @@
 # Waifu-Pics Discord Bot
-**CLOSED SOURCE Project**
+**CLOSED SOURCE Project | STATUS: CLOSED**
 ---
 Neko SH is a roleplay, Moderation(work in progress), Leveling, Economy(soon) type of bot.
 
