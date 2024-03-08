@@ -21,10 +21,10 @@ Neko SH is a roleplay, Moderation(work in progress), Leveling, Economy(soon) typ
 # Support Server
 
 #### <a href="https://discord.gg/MjjjpgeF3p">Discord Server<a> Link For Support, Suggestions, and Hangout
-MY DISCORD USERNAME: nomi.md | nomi.md#1405
+MY DISCORD USERNAME: 6aoto9 | 6aoto9#1405
 
 #### IF you want to support the bot that wound be appreciated.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z5O12IH)
 
-# Update Version 1.1 08-10-2023
+# Last Version 1.1 08-10-2023
 ### Update info is posted on my Ko-Fi Page!
